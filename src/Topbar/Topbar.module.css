@@ -1,0 +1,12 @@
+.Topbar{
+    width: 100%;
+    background-color:#282c34;
+    padding:16px 48px 12px;/*top right bottom left  */
+    text-align:center;
+    position:fixed;
+    top:0;
+    left:0;
+  }
+  .Topbar > img{
+    width:7%;
+  }

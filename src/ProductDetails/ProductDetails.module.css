@@ -1,0 +1,56 @@
+.ProductData{
+    width:100%;
+  }
+  .ProductTitle{
+    font-family: 'Segoe UI',Verdana, sans-serif;
+    font-size: 48px;
+    font-weight:600;
+    margin-top:0;
+    margin-bottom:16px;
+  }
+  .ProductDescription{
+    font-size:20px;
+    color:black;
+    margin-top:0;
+    margin-bottom:16px;
+  }
+  .SectionHeading{
+    font-size:28px;
+    margin-bottom:8px
+  }
+  .ProductImage{
+    width:100%;
+    max-width: 80px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    margin-right: 12px;
+    cursor:pointer;
+  }
+  .SelectedProductImage{
+    border: 2px solid teal;
+  }
+  .FeatureItem{
+    min-width:80px;
+    background-color:gainsboro;
+    border-radius: 8px;
+    border: 0;
+    text-align: center;
+    margin-right: 12px;
+    cursor:pointer;
+    box-sizing: content-box;
+    padding:12px 24px;
+    font-weight:600;
+  }
+  .SelectedFeatureItem{
+    color:rgb(255, 255, 255);
+    background-color:gray;
+  }
+  .PrimaryButton{
+    color:white;
+    background-color:teal;
+    font-size: 20px;
+    border-radius: 8px;
+    border: 0;
+    padding: 12px 24px;
+    margin-top:30px;
+  }
