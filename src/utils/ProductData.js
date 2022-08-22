@@ -1,6 +1,6 @@
 const ProductData = {
     title: 'FitBit 19 - The Smartest Watch',
-    description: 'Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor.',
+    description: 'A Fitbit is a device that people can wear around their wrist to measure their daily steps, heart rate, and more. There are several types of Fitbits, with different features and styles.',
     colorOptions: [
         {
             styleName: 'Black Strap',
